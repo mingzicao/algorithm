@@ -1,3 +1,6 @@
+package BinarySearch;
+
+import BinarySearch.ClassicBinarySearch;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.CoreMatchers.equalTo;

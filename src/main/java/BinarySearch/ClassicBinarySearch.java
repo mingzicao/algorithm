@@ -1,4 +1,4 @@
-/*
+package BinarySearch;/*
 
 Given a target integer T and an integer array A sorted in ascending order,
     find the index i such that A[i] == T
