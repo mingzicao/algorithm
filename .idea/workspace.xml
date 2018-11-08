@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fccc55f0-3bd6-4ea2-98b0-cb1d79a751a5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/AasteroidCollision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/LongestSubStriWithoutRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/RainbowSort3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/SetMatrixZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/SortInSpecificOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/MergeSortLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array/AasteroidCollisionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array/LongestSubStriWithoutRepeatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array/RainbowSort3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array/SetMatrixZerosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Array/SortInSpecificOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LinkedList/AddTwoNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LinkedList/MergeSortLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array/ArrayDedupeIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array/InterLeaveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/LinkedListPalindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/SortByTwoStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Array/InterLeaveArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Stack/SortByTwoStackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DivideAndConquer/InversionCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DivideAndConquer/InversionCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Array/RainbowSort3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Array/RainbowSort3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DivideAndConquer/InversionCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DivideAndConquer/InversionCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkedList/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinkedList/AddTwoNumbers.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,25 +35,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2233" />
+          <entry key="JAVA" value="6109" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="18" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="18" />
+          <entry key="class" value="4" />
+          <entry key="java" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2233" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="6109" />
         </counts>
       </usages-collector>
     </session>
@@ -64,52 +63,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Stack/SortByTwoStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="293">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LinkedList/AddTwoNumbersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/LinkedListPalindrom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Tree/Tree.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Array/ArrayDedupeIV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+            <state relative-caret-position="330">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Tree/TreeTest.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.3/junit-platform-commons-1.0.3.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="600" selection-start-line="600" selection-end-line="600" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Array/LongestSubStriWithoutRepeat.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="177">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Array/InterLeaveArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="51" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Array/InterLeaveArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -117,17 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Array/RainbowSort3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Array/RainbowSort3Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="165">
+              <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -135,7 +137,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Array/AasteroidCollisionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="390">
               <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -145,22 +147,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/MergeSortLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Array/SortInSpecificOrderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LinkedList/MergeSortLinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -181,10 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ClassicBinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClassicBinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BSinSorted2DMatrix.java" />
         <option value="$PROJECT_DIR$/src/test/java/BinarySearch/BSinSorted2DMatrixTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/BinarySearch/BSinSorted2DMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/BinarySearch/LongestAscendingSubArray.java" />
@@ -199,7 +185,6 @@
         <option value="$PROJECT_DIR$/src/test/java/BinarySearch/SmlestInShiftArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/BinarySearch/SmlestInShiftArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/DivideAndConquer/InversionCountTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DivideAndConquer/InversionCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/DynamicProgramming/WordBreak1.java" />
         <option value="$PROJECT_DIR$/src/test/java/DynamicProgramming/WordBreak1Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/DynamicProgramming/WordBreak2.java" />
@@ -217,15 +202,26 @@
         <option value="$PROJECT_DIR$/src/test/java/Array/SetMatrixZerosTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Array/LongestSubStriWithoutRepeatTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/test/java/LinkedList/AddTwoNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Array/AasteroidCollision.java" />
         <option value="$PROJECT_DIR$/src/test/java/Array/AasteroidCollisionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LinkedList/MergeSortLinkedList.java" />
         <option value="$PROJECT_DIR$/src/test/java/LinkedList/MergeSortLinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Array/LongestSubStriWithoutRepeat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Array/RainbowSort3.java" />
         <option value="$PROJECT_DIR$/src/test/java/Array/RainbowSort3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Array/RainbowSort3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DivideAndConquer/InversionCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stack/SortByTwoStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Stack/SortByTwoStackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LinkedList/ifLinkedListPalindrom.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LinkedList/ifLinkedListPalindromTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LinkedList/LinkedListPalindrom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Array/ArrayDedupeIV.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Array/InterLeaveArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Array/InterLeaveArray.java" />
       </list>
     </option>
   </component>
@@ -301,6 +297,14 @@
               <item name="SHUATI" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHUATI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,6 +313,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHUATI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHUATI" type="b2602c69:ProjectViewProjectNode" />
@@ -327,7 +339,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541649581261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541713942351" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -341,9 +353,9 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Array" />
       <recent name="LinkedList" />
+      <recent name="Stack" />
       <recent name="Tree" />
       <recent name="DivideAndConquer" />
-      <recent name="BinarySearch" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="DynamicProgramming" />
@@ -365,62 +377,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RainbowSort3Test.rainbowSortIII2">
-    <configuration name="RainbowSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.RainbowSort3" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.InterLeaveArrayTest.interleave2">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbersTest.addTwo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LinkedList" />
-      <option name="MAIN_CLASS_NAME" value="LinkedList.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwo1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddTwoNumbersTest.addTwo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LinkedList" />
-      <option name="MAIN_CLASS_NAME" value="LinkedList.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwo2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RainbowSort3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InterLeaveArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -429,13 +393,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Array" />
-      <option name="MAIN_CLASS_NAME" value="Array.RainbowSort3Test" />
+      <option name="MAIN_CLASS_NAME" value="Array.InterLeaveArrayTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RainbowSort3Test.rainbowSortIII2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InterLeaveArrayTest.interleave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -444,8 +408,59 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Array" />
-      <option name="MAIN_CLASS_NAME" value="Array.RainbowSort3Test" />
-      <option name="METHOD_NAME" value="rainbowSortIII2" />
+      <option name="MAIN_CLASS_NAME" value="Array.InterLeaveArrayTest" />
+      <option name="METHOD_NAME" value="interleave" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterLeaveArrayTest.interleave1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Array" />
+      <option name="MAIN_CLASS_NAME" value="Array.InterLeaveArrayTest" />
+      <option name="METHOD_NAME" value="interleave1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterLeaveArrayTest.interleave2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Array" />
+      <option name="MAIN_CLASS_NAME" value="Array.InterLeaveArrayTest" />
+      <option name="METHOD_NAME" value="interleave2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListPalindromTest.isPalindrome5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedListPalindromTest" />
+      <option name="METHOD_NAME" value="isPalindrome5" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -467,19 +482,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AddTwoNumbersTest.addTwo1" />
-      <item itemvalue="JUnit.AddTwoNumbersTest.addTwo2" />
-      <item itemvalue="Application.RainbowSort3" />
-      <item itemvalue="JUnit.RainbowSort3Test" />
-      <item itemvalue="JUnit.RainbowSort3Test.rainbowSortIII2" />
+      <item itemvalue="JUnit.LinkedListPalindromTest.isPalindrome5" />
+      <item itemvalue="JUnit.InterLeaveArrayTest.interleave" />
+      <item itemvalue="JUnit.InterLeaveArrayTest.interleave1" />
+      <item itemvalue="JUnit.InterLeaveArrayTest.interleave2" />
+      <item itemvalue="JUnit.InterLeaveArrayTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RainbowSort3Test.rainbowSortIII2" />
-        <item itemvalue="JUnit.RainbowSort3Test" />
-        <item itemvalue="Application.RainbowSort3" />
-        <item itemvalue="JUnit.AddTwoNumbersTest.addTwo2" />
-        <item itemvalue="JUnit.AddTwoNumbersTest.addTwo1" />
+        <item itemvalue="JUnit.InterLeaveArrayTest.interleave2" />
+        <item itemvalue="JUnit.InterLeaveArrayTest.interleave" />
+        <item itemvalue="JUnit.InterLeaveArrayTest" />
+        <item itemvalue="JUnit.InterLeaveArrayTest.interleave1" />
+        <item itemvalue="JUnit.LinkedListPalindromTest.isPalindrome5" />
       </list>
     </recent_temporary>
   </component>
@@ -498,35 +513,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SetMatrixZerosTest_setZero - 2018.11.05 at 10h 47m 13s.xml">
-      <configuration name="SetMatrixZerosTest.setZero" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave - 2018.11.08 at 16h 06m 02s.xml">
+      <configuration name="InterLeaveArrayTest.interleave" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SetMatrixZerosTest_setZero - 2018.11.05 at 10h 50m 48s.xml">
-      <configuration name="SetMatrixZerosTest.setZero" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave - 2018.11.08 at 16h 06m 21s.xml">
+      <configuration name="InterLeaveArrayTest.interleave" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SetMatrixZerosTest_setZero - 2018.11.05 at 10h 50m 49s.xml">
-      <configuration name="SetMatrixZerosTest.setZero" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave1 - 2018.11.08 at 16h 08m 26s.xml">
+      <configuration name="InterLeaveArrayTest.interleave1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestSubStriWithoutRepeatTest - 2018.11.07 at 21h 21m 02s.xml">
-      <configuration name="LongestSubStriWithoutRepeatTest" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave2 - 2018.11.08 at 16h 10m 15s.xml">
+      <configuration name="InterLeaveArrayTest.interleave2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AasteroidCollisionTest - 2018.11.07 at 21h 32m 29s.xml">
-      <configuration name="AasteroidCollisionTest" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave2 - 2018.11.08 at 16h 16m 01s.xml">
+      <configuration name="InterLeaveArrayTest.interleave2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortLinkedListTest - 2018.11.07 at 21h 37m 25s.xml">
-      <configuration name="MergeSortLinkedListTest" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest - 2018.11.08 at 16h 16m 54s.xml">
+      <configuration name="InterLeaveArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_addTwo - 2018.11.07 at 21h 39m 31s.xml">
-      <configuration name="AddTwoNumbersTest.addTwo" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave2 - 2018.11.08 at 16h 17m 02s.xml">
+      <configuration name="InterLeaveArrayTest.interleave2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_addTwo1 - 2018.11.07 at 21h 39m 45s.xml">
-      <configuration name="AddTwoNumbersTest.addTwo1" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest - 2018.11.08 at 16h 48m 24s.xml">
+      <configuration name="InterLeaveArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_addTwo1 - 2018.11.07 at 21h 40m 12s.xml">
-      <configuration name="AddTwoNumbersTest.addTwo1" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave - 2018.11.08 at 16h 48m 52s.xml">
+      <configuration name="InterLeaveArrayTest.interleave" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_addTwo2 - 2018.11.07 at 21h 40m 17s.xml">
-      <configuration name="AddTwoNumbersTest.addTwo2" configurationId="JUnit" />
+    <history-entry file="InterLeaveArrayTest_interleave2 - 2018.11.08 at 16h 49m 01s.xml">
+      <configuration name="InterLeaveArrayTest.interleave2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -534,9 +549,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13614164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13614164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -545,16 +559,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6568987" visible="true" weight="0.42040816" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8443223" weight="0.34285715" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64774114" visible="true" weight="0.2887755" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.83882785" weight="0.34285715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49676898" weight="0.38206896" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.34310135" side_tool="true" visible="true" weight="0.42040816" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48290598" weight="0.327551" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.496337" weight="0.26020408" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.35225886" side_tool="true" visible="true" weight="0.2887755" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47741148" weight="0.327551" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -641,18 +655,37 @@
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.3/junit-platform-commons-1.0.3-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearch/ClassicBinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -754,13 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DivideAndConquer/InversionCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DivideAndConquer/InversionCountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -829,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.3/junit-platform-commons-1.0.3.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="600" selection-start-line="600" selection-end-line="600" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DynamicProgramming/WordBreak2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -853,20 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Array/SetMatrixZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Array/SortInSpecificOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Array/SortInSpecificOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -875,13 +880,6 @@
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Array/SetMatrixZerosTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -895,17 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Array/AasteroidCollision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -913,44 +900,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Array/AasteroidCollisionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/MergeSortLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LinkedList/MergeSortLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Tree/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -974,24 +927,156 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array/RainbowSort3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DivideAndConquer/InversionCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Stack/SortByTwoStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="31" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/MergeSortLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Array/LongestSubStriWithoutRepeat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="280">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LinkedList/MergeSortLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array/SetMatrixZerosTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Array/SetMatrixZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stack/SortByTwoStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedList/LinkedListPalindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.3/junit-platform-commons-1.0.3.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="600" selection-start-line="600" selection-end-line="600" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Array/RainbowSort3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="165">
+          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Array/RainbowSort3Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array/AasteroidCollisionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array/SortInSpecificOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Array/ArrayDedupeIV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LinkedList/LinkedListPalindromTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Array/InterLeaveArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Array/InterLeaveArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="51" selection-end-column="5" />
         </state>
       </provider>
     </entry>

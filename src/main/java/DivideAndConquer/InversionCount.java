@@ -1,4 +1,5 @@
 package DivideAndConquer;
+/**bug */
 // 4 1 , 3 2;
 // 3, 0, 1 0
 // inversion, a[i] > a[j] while i < j

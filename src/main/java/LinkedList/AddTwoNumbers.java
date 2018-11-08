@@ -9,10 +9,6 @@ Explanation: 342 + 465 = 807.
 
 public class AddTwoNumbers {
     public ListNode addTwo(ListNode n1, ListNode n2) {
-        //  ListNode n1 = reverse(l1);
-        // ListNode n2 = reverse(l2);
-        ListNode.printLinkedList(n1);
-        ListNode.printLinkedList(n2);
         ListNode i = n1;
         ListNode j = n2;
         int carryon = 0;
