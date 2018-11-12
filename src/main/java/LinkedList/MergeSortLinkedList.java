@@ -20,7 +20,7 @@ public class MergeSortLinkedList {
     }
     public ListNode mergeSort(ListNode head, ListNode tail) {
         // base case; if only one node
-        if (head == tail && head.next == null) {
+        if ( head.next == null) {
             return head;
         }
         // n1 -> n2 -> n3
