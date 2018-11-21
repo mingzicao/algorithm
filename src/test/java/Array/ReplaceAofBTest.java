@@ -20,20 +20,15 @@ class ReplaceAofBTest {
     @Test
     void minReplacements1() {
         String input =  "aba";
-
         int i =  r.minReplacements(input);
         assertEquals(1, i);
 
     }
 
-
     @Test
     void minReplacements2() {
         String input =  "baaaa";
-
         int i =  r.minReplacements(input);
         assertEquals(1, i);
-
-
     }
 }

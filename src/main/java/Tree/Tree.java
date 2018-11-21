@@ -69,5 +69,29 @@ public class Tree {
         }
         return list;
     }
+    public static void PrintTreeLevelOrder(TreeNode root) {
+
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        if (root == null) {
+            return;
+        }
+        queue.offerLast(root);
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            while (size > 0) {
+                TreeNode t = queue.pollFirst();
+                System.out.print(t.key + " ");
+                if (t.left != null) {
+                    queue.offerLast(t.left);
+                }
+                if (t. right != null) {
+                    queue.offerLast(t.right);
+                }
+                size--;
+            }
+            System.out.println();
+        }
+
+    }
 
 }
